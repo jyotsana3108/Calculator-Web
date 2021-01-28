@@ -7,7 +7,7 @@
 }
 
 body {
-    background: url(blob/main/PleasantBackground.jpg);
+    background: url(.main/PleasantBackground.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
